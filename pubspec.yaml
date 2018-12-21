@@ -2,7 +2,7 @@ name: gradient_text
 description: A Flutter Widget for displaying Text with a gradient drawn through it. Accepts TextStyle, and TextAlign so it can be used very similarly to a Text widget 
 version: 1.0.1
 author: Smart Apeth <tony@smartapeth.com>
-homepage: https://www.smartapeth.com
+homepage: https://github.com/tunitowen/gradient_text
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
