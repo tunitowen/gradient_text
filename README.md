@@ -11,7 +11,7 @@ Add the plugin (pub coming soon):
 ```yaml
 dependencies:
   ...
-  gradient_text: ^1.0.1
+  gradient_text: ^1.0.2
 ```
 
 # Usage
