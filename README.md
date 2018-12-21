@@ -11,9 +11,7 @@ Add the plugin (pub coming soon):
 ```yaml
 dependencies:
   ...
-  gradient_text:
-    git:
-      url: git@github.com:tunitowen/gradient_text.git
+  gradient_text: ^1.0.1
 ```
 
 # Usage

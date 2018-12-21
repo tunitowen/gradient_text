@@ -1,3 +1,5 @@
-## [1.0] - Initial release.
+## [1.0.1] - Update description and install instructions
+* Meta data update only
 
+## [1.0.0] - Initial release.
 * Simple `GradientText` Widget, for use in Flutter applications.
