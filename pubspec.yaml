@@ -1,8 +1,8 @@
 name: gradient_text
 description: A Flutter Widget for displaying gradient text
-version: 1.0
-author:
-homepage:
+version: 1.0.0
+author: Smart Apeth <tony@smartapeth.com>
+homepage: https://www.smartapeth.com
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"

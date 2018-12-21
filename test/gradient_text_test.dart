@@ -1,7 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:gradient_text/gradient_text.dart';
 import 'package:flutter/material.dart';
+import 'package:gradient_text/gradient_text.dart';
 
 void main() {
   test('font size is carried to text widget', () {
