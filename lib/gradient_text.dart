@@ -3,13 +3,13 @@ import 'package:flutter/material.dart';
 
 class GradientText extends StatelessWidget {
   GradientText(this.data,
-      {@required this.gradient,
+      {required this.gradient,
       this.style,
       this.textAlign = TextAlign.left});
 
   final String data;
   final Gradient gradient;
-  final TextStyle style;
+  final TextStyle? style;
   final TextAlign textAlign;
 
   @override
@@ -23,7 +23,7 @@ class GradientText extends StatelessWidget {
         textAlign: textAlign,
         style: (style == null)
             ? TextStyle(color: Colors.white)
-            : style.copyWith(color: Colors.white),
+            : style!.copyWith(color: Colors.white),
       ),
     );
   }
